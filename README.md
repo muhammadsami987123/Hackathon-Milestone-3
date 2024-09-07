@@ -1,6 +1,3 @@
-Here’s a template for a `README.md` file for your Dynamic Resume Builder project. You can customize it based on your specific needs and preferences.
-
----
 
 # Dynamic Resume Builder
 
